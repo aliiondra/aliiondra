@@ -1,11 +1,9 @@
 <h1 align="center">Hola, soy Alin Ionescu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Developer;Java+%7C+Python+%7C+SQL+%7C+IA;Técnico+Superior+DAM;Contenido+Audiovisual+%26+Tecnología;Always+Learning&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Developer;Java+%7C+Python+%7C+SQL+%7C+IA;Técnico+Superior+DAM;Desarrollo+Tecnológico+%26+Creación+Audiovisual;Always+Learning&center=true&width=500&height=50">
   </a>
 </p>
-
-<hr/>
 
 <h4>
 Soy Alin Ionescu, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente cursando la Especialización en Ciberseguridad en Entornos Tecnológicos. Esta doble formación me permite combinar desarrollo de software sólido con fundamentos de seguridad, abarcando desde aplicaciones de escritorio y móviles hasta la protección de sistemas y datos.
@@ -16,6 +14,7 @@ Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar 
 </h4>
 
 <br/>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming Languages & Frameworks
@@ -108,16 +107,16 @@ Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar 
 
 <br/>
 
-## 📂 Proyectos
+## 📂 Projects
 
-### 💻 Programación
+### 💻 Programming
 <p align="left">
   <a href="https://github.com/aliiondra/proyecto1"><img src="https://img.shields.io/badge/Proyecto1-Java-blue?style=for-the-badge" alt="Proyecto1"></a>
   <a href="https://github.com/aliiondra/proyecto2"><img src="https://img.shields.io/badge/Proyecto2-Python-green?style=for-the-badge" alt="Proyecto2"></a>
   <a href="https://github.com/aliiondra/proyecto3"><img src="https://img.shields.io/badge/Proyecto3-Flask-orange?style=for-the-badge" alt="Proyecto3"></a>
 </p>
 
-### 🎬 Audiovisuales
+### 🎬 Film & Media Work
 
 <table align="center">
   <tr>
