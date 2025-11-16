@@ -8,12 +8,10 @@
 <h4>
 Soy Alin Ionescu, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente cursando la Especialización en Ciberseguridad en Entornos Tecnológicos. Esta doble formación me permite combinar desarrollo de software sólido con fundamentos de seguridad, abarcando desde aplicaciones de escritorio y móviles hasta la protección de sistemas y datos.
 
-<br/>
 Mi perfil se centra en el desarrollo web back-end y de aplicaciones empresariales. Me apasiona la Inteligencia Artificial, la Ingeniería de Datos y la automatización de flujos de trabajo mediante herramientas como n8n.
 
 Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar mis conocimientos, seguir creciendo profesionalmente y aportar valor a proyectos en desarrollo, datos o ciberseguridad.
 </h4>
-
 <br/>
 
 ## 🛠️ My Skills
