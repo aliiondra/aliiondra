@@ -109,19 +109,16 @@ Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar 
 ## 📂 Projects
 
 ### 💻 Programming
-<p align="left">
-  <a href="https://github.com/aliiondra/BlackJack">
-    <img src="https://img.shields.io/badge/BlackJack-Java-blue?style=for-the-badge" alt="BlackJack">
-  </a>
-  
-  <a href="https://github.com/aliiondra/My-project">
-    <img src="https://img.shields.io/badge/My--project-Python-green?style=for-the-badge" alt="My project">
-  </a>
-  
-  <a href="https://github.com/aliiondra/Snake">
-    <img src="https://img.shields.io/badge/Snake-Java-blue?style=for-the-badge" alt="Snake">
-  </a>
-</p>
+
+<a href="https://github.com/aliiondra/BlackJack">
+  <img src="https://img.shields.io/badge/BlackJack-Java-blue?style=for-the-badge" alt="BlackJack">
+</a>
+<a href="https://github.com/aliiondra/My-project">
+  <img src="https://img.shields.io/badge/My--project-Python-green?style=for-the-badge" alt="My project">
+</a>
+<a href="https://github.com/aliiondra/Snake">
+  <img src="https://img.shields.io/badge/Snake-Java-blue?style=for-the-badge" alt="Snake">
+</a>
 
 ### 🎬 Film & Media Work
 
