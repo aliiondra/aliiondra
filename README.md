@@ -108,16 +108,16 @@ Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar 
 
 <br/>
 
-## 📂 Proyectos y Obras
+## 📂 Proyectos
 
-### 💻 Proyectos en GitHub
+### 💻 Programación
 <p align="left">
   <a href="https://github.com/aliiondra/proyecto1"><img src="https://img.shields.io/badge/Proyecto1-Java-blue?style=for-the-badge" alt="Proyecto1"></a>
   <a href="https://github.com/aliiondra/proyecto2"><img src="https://img.shields.io/badge/Proyecto2-Python-green?style=for-the-badge" alt="Proyecto2"></a>
   <a href="https://github.com/aliiondra/proyecto3"><img src="https://img.shields.io/badge/Proyecto3-Flask-orange?style=for-the-badge" alt="Proyecto3"></a>
 </p>
 
-### 🎬 Obras Audiovisuales
+### 🎬 Audiovisuales
 
 <table align="center">
   <tr>
