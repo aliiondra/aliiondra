@@ -40,6 +40,8 @@ Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   &emsp;
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  &emsp;
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
 </p>
 
 ### 👉 Databases
