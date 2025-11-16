@@ -70,6 +70,10 @@ Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar 
   <img alt="Make" src="https://img.shields.io/badge/Make-%230058C9.svg?logo=make&logoColor=white">
   &emsp;
   <img alt="AI Tools" src="https://img.shields.io/badge/AI%20Tools-%2300A67E.svg?logo=openai&logoColor=white">
+  &emsp;
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-%230074C0.svg?logo=jira&logoColor=white">
+  &emsp;
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-%23F74F00.svg?logo=odoo&logoColor=white">
 </p>
 
 ### 👉 Design & Media
@@ -94,6 +98,8 @@ Estoy en búsqueda activa de empleo en empresas innovadoras donde pueda aplicar 
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?logo=visual-studio-code&logoColor=white">
   &emsp;
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellijidea&logoColor=white">
+  &emsp;
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%230078D7.svg?logo=androidstudio&logoColor=white">
   &emsp;
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?logo=googlesheets&logoColor=white">
 </p>
