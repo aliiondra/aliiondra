@@ -110,15 +110,10 @@
 
 ### 💻 Programming
 
-<a href="https://github.com/aliiondra/BlackJack">
-  <img src="https://img.shields.io/badge/BlackJack-Java-blue?style=for-the-badge" alt="BlackJack">
-</a>
-<a href="https://github.com/aliiondra/My-project">
-  <img src="https://img.shields.io/badge/My--project-Python-green?style=for-the-badge" alt="My project">
-</a>
-<a href="https://github.com/aliiondra/Snake">
-  <img src="https://img.shields.io/badge/Snake-Java-blue?style=for-the-badge" alt="Snake">
-</a>
+<div align="left">
+  <a href="https://github.com/aliiondra/BlackJack"><img src="https://img.shields.io/badge/BlackJack-Java-blue?style=for-the-badge" alt="BlackJack"></a>
+  <a href="https://github.com/aliiondra/My-project"><img src="https://img.shields.io/badge/My--project-Python/Flask-darkgreen?style=for-the-badge" alt="My project"></a>
+  <a href="https://github.com/aliiondra/Snake"><img src="https://img.shields.io/badge/Snake-Java-blue?style=for-the-badge" alt="Snake"></a> 
 
 ### 🎬 Film & Media Work
 
